@@ -1,7 +1,2 @@
 #include<stdio.h>
-
-int main(void){
-    printf("welcome to c programming");
-    printf("coding is dope");
-    return 0;
-}
+int main(){}
